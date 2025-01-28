@@ -20,5 +20,11 @@
     "email": "%D1%84",
     "name": "ф",
     "avatar": "https://avatar.vercel.sh/%D1%84"
+  },
+  {
+    "email": "в",
+    "password": "$2a$10$......................qEQ93z1hHDkF5MnosSUEb5qfAKWa4ly",
+    "name": "в",
+    "avatar": "https://avatar.vercel.sh/в"
   }
 ]
